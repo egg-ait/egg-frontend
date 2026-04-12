@@ -24,3 +24,8 @@ dist-ssr
 *.sw?
 
 .granite
+
+# 환경변수
+.env
+.env.local
+.env.*.local
